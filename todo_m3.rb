@@ -43,5 +43,5 @@ end
 # - when we need to add one more case, just need to add a class, no need to change existing classes
 # Cons:
 # - lengthier
-# 
+#
 #
